@@ -7,7 +7,7 @@
 #
 Pod::Spec.new do |s|
   s.name     = 'HqStringDataUtil'
-  s.version  = 'v1.0.0'
+  s.version  = '1.0.0'
   s.license  =  "GNU"
   s.summary  = 'HqStringDataUtil'
   s.homepage = 'https://github.com/HeHuiqi/HqStringDataUtil'
